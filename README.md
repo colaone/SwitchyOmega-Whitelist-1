@@ -11,7 +11,7 @@
 * 默认情景模式设置为刚才设置的代理服务器
 * 点击「添加规则列表」，在规则列表网址，输入
 ``
-https://raw.githubusercontent.com/mxyq/SwitchyOmega-Whitelist/master/white-list.sorl
+https://raw.githubusercontent.com/colaone/SwitchyOmega-Whitelist/master/white-list.sorl
 ``
 * 点击「立即更新情景模式」
 * 点击左上角「界面」，将初始情景模式改为「Switchy」
